@@ -1,0 +1,16 @@
+* {
+    font-family: 'PT Serif', serif;
+}
+
+span.navbar-text {
+    color:#eee;
+    font-size: 25px;
+    background-color: #1C92C5;
+    margin: 0px;
+    padding: 30px;
+}
+
+a.nav-link {
+    color: grey;
+}
+
