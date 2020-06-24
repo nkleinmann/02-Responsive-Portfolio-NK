@@ -7,7 +7,6 @@ span.navbar-text {
     color:#eee;
     font-size: 25px;
     background-color: #0FABAB;
-    margin: 0px;
     padding: 30px;
 }
 
@@ -25,6 +24,9 @@ body {
 main.container {
     background-color: #F9FAFA;
     padding: 10px;
-    margin: 30px 10px;
+    margin: 30px 15px;
 }
 
+figure p {
+    flex-wrap: wrap;
+}
