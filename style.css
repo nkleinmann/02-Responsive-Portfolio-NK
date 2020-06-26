@@ -2,12 +2,17 @@
     font-family: 'PT Serif', serif;
 }
 
+nav {
+    height: 100px;
+}
+
 /*Navigation Bar Text*/
 span.navbar-text {
     color:#eee;
     font-size: 25px;
     background-color: #0FABAB;
     padding: 30px;
+    height: 100px;
 }
 
 /*Navigation Bar Links*/
@@ -45,4 +50,18 @@ div h1 {
 .btn {
     background-color: #0FABAB;
     color: white;
+}
+
+/*portfolio.html*/
+
+div figure.scratch-image {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    background-color: #0FABAB;
+    color: white;
+    bottom: 20px;
+    right: 20px;
 }
