@@ -26,12 +26,16 @@ body {
     margin: 20px 0px;
 }
 
-/*About Me Main Secion*/
 
 
 header h1 {
     color: #0FABAB;
 }
+
+div h1 {
+    color: #0FABAB;
+}
+
 
 /*contact.html*/
 
