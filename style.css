@@ -5,15 +5,7 @@
 /*Navigation Bar*/
 div.container-fluid {
     width: 100%;
-    position: relative;
-}
-
-nav {
-    height: auto;
-}
-
-div.col-md-3 {
-    height: auto;
+    height: 100%;
 }
 
 /*Navigation Bar Text*/
@@ -26,6 +18,7 @@ a.nav-text {
 /*Navigation Bar Links*/
 a.nav-link {
     color: grey;
+    font-size: 25px;
 }
 
 /*Background Image*/
