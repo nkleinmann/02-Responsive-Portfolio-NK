@@ -12,9 +12,10 @@ span.navbar-text {
     color:#eee;
     font-size: 25px;
     background-color: #0FABAB;
-    padding: 30px;
+    padding: 25px;
     height: 100px;
-    margin-left: 10%;
+    margin-left: 0;
+    text-align: center;
 }
 
 /*Navigation Bar Links*/
@@ -44,7 +45,7 @@ body.container {
 }
 
 /*About Me Page Header*/
-h1 {
+header h1 {
     color: #0FABAB;
 }
 
@@ -92,17 +93,17 @@ footer {
     border-top-style: solid;
     border-top-color: #0FABAB;
     bottom: 0px;
-    padding: 10px;
+    padding: 20px;
     position: relative;
 }
 
 div.footer-margin {
-    height: 75px;
+    height: 65px;
 }
 
 footer h6 {
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     position: relative;
 }
 
