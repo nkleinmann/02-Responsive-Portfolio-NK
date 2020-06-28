@@ -27,15 +27,15 @@ body {
 
 body.container {
     min-height: 100 vh /*viewport height*/;
-    position: relative;
     padding-bottom: 10px;
+    position: relative;
 }
 
 .sub-container {
     background-color: white;
     padding: 10px;
     padding-bottom: 60px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin: 20px 0px;
  
 }
@@ -83,10 +83,12 @@ footer {
     border-top-width: 5px;
     border-top-style: solid;
     border-top-color: #0FABAB;
-    position: absolute;
     bottom: 0px;
-    width: 100%;
     padding: 10px;
+}
+
+div.gutter-margin {
+    padding-top: 150px;
 }
 
 footer h6 {
