@@ -3,19 +3,24 @@
 }
 
 /*Navigation Bar*/
+div.container-fluid {
+    width: 100%;
+    position: relative;
+}
+
 nav {
-    height: 100px;
+    height: auto;
+}
+
+div.col-md-3 {
+    height: auto;
 }
 
 /*Navigation Bar Text*/
-span.navbar-text {
+
+a.nav-text {
     color:#eee;
     font-size: 25px;
-    background-color: #0FABAB;
-    padding: 25px;
-    height: 100px;
-    margin-left: 0;
-    text-align: center;
 }
 
 /*Navigation Bar Links*/
@@ -39,8 +44,8 @@ body.container {
     background-color: white;
     padding: 10px;
     padding-bottom: 60px;
-    margin-bottom: 10px;
-    margin: 20px 10px;
+    margin-bottom: 200px;
+    margin-top: 65px;
  
 }
 
@@ -99,7 +104,7 @@ footer {
 }
 
 div.footer-margin {
-    height: 65px;
+    height: 70px;
 }
 
 footer h6 {
