@@ -77,8 +77,8 @@ img.card-image {
 a.btn {
     position: absolute;
     bottom: 5%;
-    left: 0;
-    width: 100%;
+    right: 4%;
+    width: 92%;
     background-color: #0FABAB;
     padding: 20px;
     text-align: center;
