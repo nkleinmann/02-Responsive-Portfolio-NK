@@ -64,16 +64,23 @@ div h1 {
 
 /*portfolio.html*/
 
-div figure.scratch-image {
+
+
+img.card-image {
+    width: 100%;
+    height: auto;
     position: relative;
 }
 
-.text-block {
+
+a.btn {
     position: absolute;
+    bottom: 5%;
+    left: 0;
+    width: 100%;
     background-color: #0FABAB;
-    color: white;
-    bottom: 20px;
-    right: 20px;
+    padding: 20px;
+    text-align: center;
 }
 
 /* footer */
