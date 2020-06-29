@@ -36,9 +36,8 @@ body {
 /*Bootstrap Containers for all pages*/
 main.container {
 
-    padding-bottom: 10px;
+    margin-bottom: 200px;
     position: relative;
-    background-color: white;
 }
 
 .sub-container {
