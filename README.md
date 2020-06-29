@@ -8,7 +8,7 @@ Parts of my Website:
 3. Contact
 
 Challenges:
-Designing the navigation bar was the hardest part for me. I worked on creating a functioning nav bar (that was not adjusting how I wanted based on different screen sizes) using a bootstrap template and then built the content and layout on the 3 pages (besides the nav bar).  After the 3 pages were functioning correctly, I worked on the footer and re-working my nav-bar to re-size correctly based on sm, md, and lg screens.    
+Designing the navigation bar was the hardest part for me. I worked on creating a functioning nav bar (that was not adjusting how I wanted based on different screen sizes) using a bootstrap template and then built the content and layout on the 3 pages (besides the nav bar).  After the 3 pages were functioning correctly, I worked on the footer and re-working my nav-bar to resize correctly based on sm, md, and lg screens.    
 
 Here is the link to my application: [Visit my portfolio!](https://nkleinmann.github.io/02-Responsive-Portfolio-NK/)
 
